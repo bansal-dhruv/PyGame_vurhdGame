@@ -22,4 +22,9 @@ Enjoy!!!!!!
 ## Game Over
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/game_over.jpeg)
 
-### All the pull request are welcome
+## Further Information
+```bash
+All the pull request are welcome
+If you liked vurhd game , star mark this repo.
+Thanks for your time
+```
