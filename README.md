@@ -13,12 +13,10 @@ Enjoy!!!!!!
 ## Game Starts
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/start_page.jpeg)
 
-## ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/1.jpeg)
+![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/1.jpeg)
 
-## Example 1
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/2.jpeg)
 
-## Example 1
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/3.jpeg)
 
 ## Game Over
