@@ -9,10 +9,19 @@ The game can be controlled using:
 Enjoy!!!!!!
 ```
 # Some_Sreenshots!
-## Example 1
+
+## Game Starts
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/start_page.jpeg)
 
+## ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/1.jpeg)
+
 ## Example 1
+![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/2.jpeg)
+
+## Example 1
+![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/3.jpeg)
+
+## Game Over
 ![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/game_over.jpeg)
 
-## All the pull request are welcome
+### All the pull request are welcome
