@@ -8,3 +8,11 @@ The game can be controlled using:
 
 Enjoy!!!!!!
 ```
+# Some_Sreenshots!
+## Example 1
+![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/start_page.jpeg)
+
+## Example 1
+![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/game_over.jpeg)
+
+## All the pull request are welcome
