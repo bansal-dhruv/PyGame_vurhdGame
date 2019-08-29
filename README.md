@@ -26,5 +26,5 @@ Enjoy!!!!!!
 ```bash
 All the pull request are welcome
 If you liked vurhd game , star mark this repo.
-Thanks for your time
+Thanks for your time.
 ```
