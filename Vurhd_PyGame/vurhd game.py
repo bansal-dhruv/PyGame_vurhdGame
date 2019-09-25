@@ -4,6 +4,7 @@ pygame.init()
 
 win=pygame.display.set_mode((500,500))
 pygame.display.set_caption("Vurhd game")
+ 
 
 main=pygame.image.load('main.jpeg')
 main=pygame.transform.scale(main, (500,500))
