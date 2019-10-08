@@ -6,7 +6,7 @@ The game can be controlled using:
 ~ space bar to jump
 ~ Up/Down/Left/Right keys to move
 
-Hope you Enjoyed !!!
+Hope you Enjoyed !!!!
 ```
 # Some_Sreenshots!
 
